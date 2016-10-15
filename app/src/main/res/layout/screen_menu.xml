@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<!--
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/anagram"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:textSize="@dimen/abc_text_size_headline_material"
+        android:id="@+id/title"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_gm_1"
+        android:layout_below="@id/title"
+        android:layout_above="@id/game_mode_1"
+        android:layout_alignLeft="@id/text_gm_1"
+        android:text="None"/>
+    <android.support.design.widget.FloatingActionButton android:id="@+id/game_mode_1"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end" android:layout_margin="@dimen/fab_margin"
+        android:src="@android:drawable/ic_media_play"
+        android:onClick="playGame" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_gm_2"
+        android:text="None"/>
+    <android.support.design.widget.FloatingActionButton android:id="@+id/game_mode_2"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end" android:layout_margin="@dimen/fab_margin"
+        android:src="@android:drawable/ic_media_play"
+        android:onClick="playGame" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="None"/>
+    <android.support.design.widget.FloatingActionButton android:id="@+id/game_mode_3"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end" android:layout_margin="@dimen/fab_margin"
+        android:src="@android:drawable/ic_media_play"
+        android:onClick="playGame"/>
+-->
+</RelativeLayout>
